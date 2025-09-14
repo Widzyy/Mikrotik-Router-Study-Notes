@@ -46,10 +46,3 @@ Berikut ringkasan 40 perintah dasar Mikrotik dalam bentuk tabel agar mudah digun
 | 38 | `/system backup save name=backup-config` | Membackup konfigurasi |
 | 39 | `/system backup load name=backup-config` | Restore konfigurasi |
 | 40 | `/ip firewall filter print` | Melihat daftar firewall |
-
----
-
-# 📘 Tips Belajar
-- Gunakan tabel ini sebagai *cheat sheet* cepat.  
-- Hafalkan minimal 10 perintah pertama untuk dasar konfigurasi.  
-- Latihan di **Mikrotik RouterOS / GNS3 / Packet Tracer** agar terbiasa.  
